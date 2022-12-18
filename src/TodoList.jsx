@@ -4,8 +4,10 @@ import Clock from "react-digital-clock";
 const TodoList = () => {
   return (
     <>
-      <h1>tarun</h1>
-      <Clock />;
+      <h1>Current Time🕣</h1>
+      <br />
+
+      <Clock />
     </>
   );
 };
